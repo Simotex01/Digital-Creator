@@ -61,11 +61,6 @@
 </h2>
 
 <p style="text-align: left; padding-right: 20px">We work as a team in our organization to deliver your projects at the appropriate time. We are so careful about delivering the desired results to our customers. 
-</p>
-</div>
-<div>
-<img>src="C:\Users\DOCTOR\Documents\pngwing.com-9.np width=120 height=900
-</img>
   </div>
 </footer>
 </body>
