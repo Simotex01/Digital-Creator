@@ -2,7 +2,7 @@
 
 <head>
 
-<a href="home.html">SIR-DTECH DIGITALCREATION</a></head>
+<a href="home.html">SIR-DTECH</a></head>
 
 <body>
 
@@ -73,11 +73,5 @@
 </img>
   </div>
 </footer>
-
-						
-
-			
-
 </body>
-
 </html>
