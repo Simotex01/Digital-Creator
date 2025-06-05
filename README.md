@@ -49,11 +49,6 @@
 </div>
 </footer>
 
-		
-
-		
-<title>This is the row of about us</title>
-
 <footer style="display:flex; padding: 20px;">
 <div>
 <h1 style="text-align: left; padding-right: 20px;">How do we manage your projects
