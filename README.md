@@ -13,3 +13,8 @@ We will achieve our vision by delivering values to our customers all over the gl
 # OUR GOAL 
 
 Our goal is to become one of the world best digital creation consultant in Africa and beyond in the next 5 years
+# How do we manage your projects
+**We receive Customers plan**
+We receive your plan as proposed by your organization. We also come up with ideas as suggestions to give the projects the desire outcome.
+**Deliver expected Project**
+We work as a team in our organization to deliver your projects at the appropriate time. We are so careful about delivering the desired results to our customers.
