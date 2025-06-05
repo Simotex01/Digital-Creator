@@ -19,5 +19,141 @@ Our goal is to become one of the world best digital creation consultant in Afric
 We receive your plan as proposed by your organization. We also come up with ideas as suggestions to give the projects the desire outcome.
 
 # **Deliver expected Project**
-We work as a team in our organization to deliver your projects at the appropriate time. We are so careful about delivering the desired results to our customers.
-https://www.youtube.com/embed/EMTZUfIbiBk?si=xHWfYapMyqg23yrK
+We work as a team in our organization to deliver your projects at the appropriate time. We are so careful about delivering the desired 
+<!DOCTYPE html>
+
+
+
+<html>
+
+	<head>
+
+		<a href="home.html">SIR-DTECH </a>
+
+	</head>
+
+	<body>
+
+	<nav>
+
+	
+
+							<h4>
+
+							<a href="home.html">Home</a>
+
+							</h4>
+
+	
+
+						<h4>
+
+						<a href="about.html">About</a>
+
+						</h4>
+
+	
+
+							<h4>
+
+							<a href="contact.html">Contact</a>
+
+							</h4>
+
+	
+
+	</nav>
+
+			
+
+			<h1 style="text-align: center;">
+
+			SIR-DTECH
+
+			</h1>
+
+					<h2 style="text-align: center;">
+
+					Digital Creation Consult
+
+					</h2>
+
+					
+
+				<p style="text-align: center;">
+
+					Web Design/Dev/Training | Graphics design and Animations | Jingles | Video editing and Advertisement
+
+				</p>
+
+			 
+
+			<footer style="display:flex; padding: 20px;">
+
+			 
+
+			<div>
+
+				<h5 style="text-align: left;padding-right: 20px;">
+
+					WEB DESIGN AND DEVELOPMENT 
+
+				</h5>
+
+				<p style="text-align: left; padding-right: 20px;">
+
+					We design websites for individual and businesses. 
+
+					We train as many who intend to acquire knoledge 
+
+					in the world of digitization.
+
+				</p>
+
+				
+
+			</div>
+
+			<div>
+
+				<h5 style="text-align: left; padding-right: 20px;">
+
+				 GRAPHICS DESIGN AND ANIMATIONS 
+
+				</h5>
+
+				<p style="text-align: left; padding-right: 20px;">
+
+				We are expert in designing different kinds
+
+				graphics, such as: fliers, business cards, flexes.
+
+				We create texts and pictures animation for your 
+
+				adverts and display.
+
+				</p>
+
+			
+
+			</div>
+
+			
+
+			<div>
+
+<iframe width="250" height="200" src="https://www.youtube.com/embed/EMTZUfIbiBk?si=xHWfYapMyqg23yrK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    </body>
+
+</html>
+
+			</div>
+
+			
+
+		</footer>
+
+	</body>
+
+</html
